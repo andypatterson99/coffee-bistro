@@ -23,3 +23,6 @@ All images are license free taken from the following sites:
   - https://unsplash.com/
   - https://www.pexels.com/
   - https://pixabay.com/
+  
+  
+  Check the "master" branch for the code.
