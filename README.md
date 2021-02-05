@@ -12,6 +12,7 @@ Just showing of some of my skills as a Web Developer.
   - SQL( Good for start. Looking for new DB language soon )
   
 3.No Frameworks used.
+  - Just plain and simple all from scratch.
   - I wanted a "raw" project so i could start fresh with the basiscs.
   
 4.Design:
